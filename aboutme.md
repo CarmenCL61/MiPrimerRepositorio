@@ -1,3 +1,3 @@
 Me llamo Carmen, actualmente estoy cursando 1 de DAM en el IES San Vicente.
 **Me encanta la programación, el entreno y la vida sana**
-![Imagen de prueba](/img/lenguaje de programacion ejemplos.jpg)
+![Imagen de prueba](img/imagen.jpg)
